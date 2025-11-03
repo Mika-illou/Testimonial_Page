@@ -186,14 +186,14 @@ main h1 {
 @media(max-width: 768px) {
     main h1 {
         font-size: 1.8em;
-    }
+}
 
     .container {
         display: grid;
         grid-template-columns: 1fr;
         gap: 20px;
         padding: 20px;
-    }
+}
 
     .A,
     .B,
@@ -213,7 +213,7 @@ main h1 {
     .card_7{
         width: 380px
     }
-    card_1,
+    .card_1,
     .card_2,
     .card_3,
     .card_4,
@@ -238,7 +238,7 @@ main h1 {
         width: 340px
     }
     main h1{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     }
     @media(max-width: 320px) {
