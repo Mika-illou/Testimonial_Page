@@ -132,7 +132,7 @@ main h1 {
     background: linear-gradient(white) padding-box, 
     linear-gradient(to right, #CF8714, #45b7d1, #45b7d1,#f9ca24) border-box !important;
 }
-.card_7:hover {
+.card_1:hover,.card_2:hover,.card_3:hover,.card_4:hover,.card_5:hover,.card_6:hover, .card_7:hover {
     transform: translateY(-5px); 
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
